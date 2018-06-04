@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_hr_timesheet_my_activities_hr_timesheet_my_activities,hr_timesheet_my_activities.hr_timesheet_my_activities,model_hr_timesheet_my_activities_hr_timesheet_my_activities,,1,0,0,0
